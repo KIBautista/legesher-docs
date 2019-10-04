@@ -92,7 +92,7 @@ cd guide
 We love your desire to give back, and want to make the process as welcoming to newcomers and experts as possible. We're working on developing more intuitive tutorials for individuals of all skill levels and expertise, so if you think the community would value from being walked through the steps you're going through please share! ❤️
 
 ### Test Changes
-When you start making changes to the code on your local branch, you'll need to test those changes. Most of the documentation is written in Markdown, you'll want to make sure everything is formatted properly. I suggest Atom's [`markdown-preview`](https://atom.io/packages/markdown-preview) package to test out the file.
+When you start making changes to the code on your local branch, you'll need to test those changes. Since most of the documentation is written in Markdown, you'll want to make sure everything is formatted properly. I suggest Atom's [`markdown-preview`](https://atom.io/packages/markdown-preview) package to test out the file.
 
 # Legesher Projects
 Legesher Developer Tools might be useful to you if:
